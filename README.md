@@ -48,3 +48,30 @@
 *Last updated: 2026-09-07* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu29441/PST-JAVA-WEEK7/tree/master/1472-design-browser-history) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu29441/PST-JAVA-WEEK7/tree/master/1472-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu29441/PST-JAVA-WEEK7/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu29441/PST-JAVA-WEEK7/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu29441/PST-JAVA-WEEK7/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu29441/PST-JAVA-WEEK7/tree/master/1472-design-browser-history) |
+<!---LeetCode Topics End-->
