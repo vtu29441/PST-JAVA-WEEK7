@@ -74,9 +74,9 @@ t.getInheritanceOrder(); // return ["king", "andy", "matthew", "alex", "asha", "
 ## Solution
 
 **Language:** Java  
-**Runtime:** 256 ms (beats 27.86%)  
-**Memory:** 117.5 MB (beats 75.75%)  
-**Submitted:** 2026-09-07T15:43:07.167Z  
+**Runtime:** 7 ms  
+**Memory:** 43.2 MB  
+**Submitted:** 2026-09-07T15:43:13.092Z  
 
 ```java
 import java.util.ArrayList;
