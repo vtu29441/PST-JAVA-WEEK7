@@ -49,7 +49,7 @@ Each line $i$ of the $n$ subsequent lines contains a single integer, $grades[i]$
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-07T15:20:01.071Z  
+**Submitted:** 2026-09-07T15:20:03.168Z  
 
 ```py
 #!/bin/python3
