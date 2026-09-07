@@ -25,41 +25,43 @@ You are not responsible for printing anything to stdout. Your *add* method must 
 
 ## Solution
 
-**Language:** Java  
+**Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-07T15:38:44.623Z  
+**Submitted:** 2026-09-07T15:38:54.303Z  
 
-```java
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+```cpp
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
 
-class Arithmetic {
-    int add(int a, int b) {
-        return a + b;
-    }
+class Arithmetic {
+    int add(int a, int b) {
+        return a + b;
+    }
 }
 
-class Adder extends Arithmetic {
-    // Inherits the add method from Arithmetic
+class Adder extends Arithmetic {
+    // Inherits the add method from Arithmetic
 }
 
-public class Solution {
-    public static void main(String []args){
-        // Create a new Adder object
-        Adder a = new Adder();
-        
-        // Print the name of the superclass on a new line
-        System.out.println("My superclass is: " + a.getClass().getSuperclass().getName());    
-        
-        // Print the result of 3 calls to Adder's `add(int,int)` method as 3 space-separated integers:
-        System.out.print(a.add(10,32) + " " + a.add(10,3) + " " + a.add(10,10) + "\n");
-     }
+public class Solution {
+    public static void main(String []args){
+        // Create a new Adder object
+        Adder a = new Adder();
+        
+        // Print the name of the superclass on a new line
+        System.out.println("My superclass is: " + a.
+        getClass().getSuperclass().getName());    
+        
+        // Print the result of 3 calls to Adder's `add
+        (int,int)` method as 3 space-separated integers:
+        System.out.print(a.add(10,32) + " " + a.add(10,3) 
+        + " " + a.add(10,10) + "\n");
+     }
 }
-
 ```
 
 ---
